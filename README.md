@@ -1,2 +1,2 @@
 # mkey
-Implementation of monkey programming language as part of Writing An Interpreter In Go
+Implementation of monkey programming language as part of [Writing An Interpreter In Go](https://interpreterbook.com/)
